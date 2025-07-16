@@ -1,4 +1,4 @@
 ## Secure VM Deployment
 ## Automated Image Build
-Which Reality?
+## Which Reality?
 Infrastructure as Code Analysis
