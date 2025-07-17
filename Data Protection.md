@@ -2,7 +2,7 @@
 ## Cloud Storage
 ## Availability
 ##  Hunting
-Data at Rest Encryption
+## Data at Rest Encryption
 Data in Transit
 Productivity Services
 Lifecycle Management
