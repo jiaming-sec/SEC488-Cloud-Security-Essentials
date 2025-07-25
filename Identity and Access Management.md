@@ -3,7 +3,7 @@
 ## Application Credentials
 ## Metadata Services
 
-Topics covered
+## Topics covered
 Cloud Accounts and Groups
 Policies and Permissions
 Identity Guardrails
