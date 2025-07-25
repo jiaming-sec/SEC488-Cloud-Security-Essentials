@@ -5,6 +5,6 @@
 
 ## Topics covered
 * Cloud Accounts and Groups
-Policies and Permissions
+* Policies and Permissions
 Identity Guardrails
 Temporary Credentials and Secrets Management
