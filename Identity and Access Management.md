@@ -7,4 +7,4 @@
 * Cloud Accounts and Groups
 * Policies and Permissions
 * Identity Guardrails
-Temporary Credentials and Secrets Management
+* Temporary Credentials and Secrets Management
